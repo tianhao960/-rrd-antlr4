@@ -14,7 +14,7 @@ use this tool as a maven plugin.
 ```xml
 <plugin>
     <groupId>space.vector</groupId>
-    <artifactId>rrg-maven-plugin</artifactId>
+    <artifactId>rr-maven-plugin</artifactId>
     <version>0.0.1</version>
     <executions>
         <execution>
