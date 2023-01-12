@@ -29,3 +29,10 @@ use this tool as a maven plugin.
     </executions>
 </plugin>
 ```
+
+# Credits
+| project                                            | License                                                                              |
+|----------------------------------------------------|--------------------------------------------------------------------------------------|
+| [rrd-antlr4](https://github.com/bkiers/rrd-antlr4) | [MIT](https://github.com/bkiers/rrd-antlr4/blob/master/LICENSE)                      |
+| [grammars-v4](https://github.com/antlr/grammars-v4/) | [BSD](https://github.com/antlr/grammars-v4/blob/master/antlr/antlr4/ANTLRv4Lexer.g4) |
+| [railroad-diagrams](https://github.com/tabatkins/railroad-diagrams) | [MIT](https://github.com/tabatkins/railroad-diagrams/blob/gh-pages/LICENSE) |
