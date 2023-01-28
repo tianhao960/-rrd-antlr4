@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>space.vector</groupId>
     <artifactId>rr-maven-plugin</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <packaging>maven-plugin</packaging>
     <name>rr Maven Mojo</name>
     <url>https://https://github.com/tianhao960/rrg-antlr4</url>
@@ -65,13 +65,13 @@
         <dependency>
             <groupId>org.graalvm.js</groupId>
             <artifactId>js</artifactId>
-            <version>21.1.0</version>
+            <version>21.3.1</version>
         </dependency>
         
         <dependency>
             <groupId>org.graalvm.js</groupId>
             <artifactId>js-scriptengine</artifactId>
-            <version>21.1.0</version>
+            <version>21.3.1</version>
         </dependency>
 
         <dependency>
